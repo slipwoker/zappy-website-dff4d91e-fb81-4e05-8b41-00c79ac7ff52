@@ -95,8 +95,8 @@ Description: A business focused on image creation, which could encompass photogr
 
 
 
-יצירת תמונות • סטודיו קריאייטיב
 
+יצירת תמונות • סטודיו קריאייטיב
 
 
 # הופכים רעיונותלוויזואל שמדבר
@@ -104,6 +104,7 @@ Description: A business focused on image creation, which could encompass photogr
 
 
 ### צילום, עיצוב, AI ויצירת תמונות מותאמות אישית — לקמפיינים, אירועים ותוכן דיגיטלי שנשאר בזיכרון.
+לחץ כאן
 
 
 
