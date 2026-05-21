@@ -1,4 +1,4 @@
-# נקודת מבת — Generative Engine Optimization Map
+# נקודת מבט — Generative Engine Optimization Map
 
 > A business focused on image creation, which could encompass photography, digital art, illustration, AI-generated imagery, or graphic design. The specific niche, style, and creative direction are yet to be determined.
 
@@ -46,7 +46,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About נקודת מבת
+## About נקודת מבט
 A business focused on image creation, which could encompass photography, digital art, illustration, AI-generated imagery, or graphic design. The specific niche, style, and creative direction are yet to be determined.
 
 ## Services/Products
