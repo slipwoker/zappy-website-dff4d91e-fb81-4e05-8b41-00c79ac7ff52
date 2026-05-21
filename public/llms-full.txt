@@ -65,8 +65,7 @@ Description: A business focused on image creation, which could encompass photogr
 
 
 
-
-צור קשר
+- צור קשר
 
 
 
@@ -131,12 +130,14 @@ Description: A business focused on image creation, which could encompass photogr
 
 
 
+
 השירותים שלנו
 
 ## יצירת תמונות לעסקים —מכל זווית, בכל פורמט
 
 
 סטודיו גמיש המתמחה ביצירת תוכן ויזואלי לסוכנויות שיווק, יוצרי תוכן ומתכנני אירועים. מצלמה, עיצוב, בינה מלאכותית — הכל תחת קורת גג אחת.
+
 
 
 
@@ -171,6 +172,7 @@ Description: A business focused on image creation, which could encompass photogr
 
 
 
+
 02
 
 ### קונספט ויזואלי ממותג
@@ -181,6 +183,7 @@ Description: A business focused on image creation, which could encompass photogr
 
 
 מיתוג חזותי
+
 
 
 
@@ -204,6 +207,7 @@ AI-Powered
 
 
 
+
 04
 
 ### סיפור ויזואלי לאירועים
@@ -217,6 +221,65 @@ AI-Powered
 
 
 תיעוד אירועים
+
+
+
+
+
+
+
+
+
+
+
+טקסט כאן
+
+### כותרת משנה
+
+
+יוצרים ונהנים
+
+
+
+טקסט כאן
+
+
+
+
+
+טקסט קישור
+
+
+
+AI
+
+### כותרת משנה
+
+
+AI בכיף
+
+
+
+בננה
+
+
+
+
+
+
+טקסט כאן
+
+### כותרת משנה
+
+
+טקסט כאן
+
+
+
+
+
+
+טקסט כאן
 
 
 
